@@ -1,0 +1,2 @@
+# Posibo
+This project is a user feedback website and it is used to provide production information and feedback online. All feedbacks are transparent and real time, which allows all users can acquire objective feedback about corresponding product. Also, user can manage their personal reviews in comment interface. For business owner, it can collect Customer Satisfaction Score with star widgets. It guides shopkeepers to identify issues and take actions.
